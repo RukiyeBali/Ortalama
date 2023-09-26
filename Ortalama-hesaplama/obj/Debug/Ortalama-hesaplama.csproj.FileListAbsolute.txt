@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama_hesaplama.Form1.resources
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\bin\Debug\Ortalama-hesaplama.exe.config
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\bin\Debug\Ortalama-hesaplama.exe
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\bin\Debug\Ortalama-hesaplama.pdb
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.exe
+C:\Users\User\Desktop\Rukiye\Ortalama-hesaplama\Ortalama-hesaplama\obj\Debug\Ortalama-hesaplama.pdb
